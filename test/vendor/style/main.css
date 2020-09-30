@@ -1,0 +1,906 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    background: white;
+    overflow-x: hidden;
+}
+.topbar{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background-image: url(/vendor/images/background_0.png);
+    display: flex;
+    align-items: center;
+}
+.topbar .navigation{
+    width: calc(100% - 250px);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.topbar .navigation a{
+    border-left: 1px solid gray;
+    text-decoration: none;
+    color: gray;
+    font-size: 15px;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+.wrapper{
+        background-image: url(/vendor/images/shutterstock17622570.png);
+        left: -6px; 
+        top: -10px; 
+        position: absolute; 
+        width: 1609px;
+        height: 1072px;
+        z-index:80;
+}
+#EsokiaServicesRfren 
+{ 
+	 left: 622px; 
+	 top: 91px; 
+	 position: absolute; 
+	 width: 908px;
+	 height: 14px;
+	 z-index:85;
+}
+#EsokiaServicesRfren a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0 10px;
+}
+#Lagencedigitaleoffsh 
+{   
+    font-size: 70px;
+    color: white;
+	 left: 209px; 
+	 top: 258px; 
+	 position: absolute; 
+	 width: 615px;
+	 height: 135px;
+	 z-index:82;
+} 
+#Nousdvelopponspourvo 
+{   
+    font-size: 15px;
+    color: white;
+	 left: 211px; 
+	 top: 475px; 
+	 position: absolute; 
+	 width: 492px;
+	 height: 41px;
+	 z-index:83;
+} 
+#esokialogohq500whtco 
+{ 
+	 left: 211px; 
+	 top: 81px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 45px;
+	 z-index:86;
+}
+#LatestNews 
+{ 
+    
+	 font-size: 40px;
+	 color: rgb(0, 194, 219);
+	 left: 829px; 
+	 top: 1929px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 50px;
+	 z-index:21;
+} 
+#Loremipsumdolorsitam_1 
+{ 	
+    
+	 color: rgba(61, 70, 78, 0.671);
+	 font-size: 20px;
+	 line-height: 200%;
+	 left: 825px; 
+	 top: 2000px; 
+	 position: absolute; 
+
+	 z-index:22;
+} 
+
+#Readmore 
+{ 
+
+	 font-weight: bold;
+	 color: aqua;
+	 left: 828px; 
+	 top: 2195px; 
+	 position: absolute; 
+	 width: 7%;
+	 height: 2%;
+	 z-index:19;
+} 
+#subMenuArrowcopy5 
+{ 
+	 left: 917px; 
+	 top: 2195px; 
+	 position: absolute; 
+	 width: 1%;
+	 height: 2%;
+	 z-index:20;
+} 
+#Layer43 
+{ 
+	 left: 0px; 
+	 top: 1707px; 
+	 position: absolute; 
+	 width: 886px;
+	 height: 768px;
+	 z-index:18;
+}
+ 
+ #Layer40 
+{ 
+	 left: 0px; 
+	 top: 778px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 1121px;
+	 z-index:23;
+} 
+
+ #Rectangle6 
+{ 
+	 left: -21px; 
+	 top: 1241px; 
+	 position: absolute; 
+	 width: 1636px;
+	 height: 611px;
+	 z-index:24;
+} 
+
+ #Rectangle7 
+{ 
+	 left: 272px; 
+	 top: 1597px; 
+	 position: absolute; 
+	 width: 327px;
+	 height: 180px;
+	 z-index:25;
+} 
+
+ #mask 
+{ 
+	 left: 271px; 
+	 top: 1392px; 
+	 position: absolute; 
+	 width: 328px;
+	 height: 238px;
+	 z-index:26;
+} 
+
+ #photodune3580063wood 
+{ 
+	 left: 258px; 
+	 top: 1378px; 
+	 position: absolute; 
+	 width: 375px;
+	 height: 268px;
+	 z-index:27;
+}
+#OutdoorDesktop 
+{ 
+    
+	 left: 295px; 
+	 top: 1644px; 
+	 position: absolute; 
+	 width: 199px;
+	 height: 22px;
+	 z-index:28;
+} 
+#OutdoorDesktop a{
+    font-size: 25px;
+    text-decoration: none;
+
+}
+#Loremipsumdolorsitam_2 
+{ 
+	 left: 294px; 
+	 top: 1685px; 
+	 position: absolute; 
+	 width: 253px;
+	 height: 44px;
+	 z-index:29;
+} 
+ #background_0 
+{ 
+	 left: -41px; 
+	 top: 2763px; 
+	 position: absolute; 
+	 width: 1682px;
+	 height: 340px;
+	 z-index:2;
+}  
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 209px; 
+	 top: 2883px; 
+	 position: absolute; 
+	 width: 221px;
+	 height: 101px;
+	 z-index:3;
+} 
+
+ #esokialogohq500wht 
+{ 
+	 left: 209px; 
+	 top: 2809px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 45px;
+	 z-index:4;
+}
+#Rectangle7_0 
+{ 
+	 left: 624px; 
+	 top: 1597px; 
+	 position: absolute; 
+	 width: 325px;
+	 height: 180px;
+	 z-index:30;
+} 
+#mask_0 
+{ 
+    left: -17px; 
+    top: -210px;
+	 /* left: 624px; 
+	 top: 1392px;  */
+	 position: absolute; 
+	 width: 325px;
+	 height: 238px;
+	 z-index:31;
+} 
+
+#photodune1942009comp 
+{ 
+	 /* left: 1595px; 
+     top: 1366px;  */
+     left: -17px; 
+    top: -230px;
+	 position: absolute; 
+	 width: 358px;
+	 height: 272px;
+	 z-index:32;
+}
+
+#mask_2 
+{ 
+	 left: 973px; 
+	 top: 1392px; 
+	 position: absolute; 
+	 width: 326px;
+	 height: 238px;
+	 z-index:41;
+}
+#MouseandaKeyboard 
+{ 
+	 left: 649px; 
+	 top: 1644px; 
+	 position: absolute; 
+	 width: 274px;
+	 height: 22px;
+	 z-index:33;
+} 
+#MouseandaKeyboard a{
+    font-size: 25px;
+    text-decoration: none;
+}
+#photodune2540453mark 
+{ 
+	 left: 945px; 
+	 top: 1375px; 
+	 position: absolute; 
+	 width: 368px;
+	 height: 265px;
+	 z-index:42;
+} 
+ #ServicesRfrencesCarr 
+{ 
+	
+	 left: 601px; 
+	 top: 2822px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 192px;
+	 z-index:5;
+} 
+#ServicesRfrencesCarr a{
+	line-height:30px;
+	font-size: 19px;
+	list-style: none;
+	text-decoration: none;
+	color: gray;
+}
+
+ #ServicesRfrencesCarr_0 
+{ 
+	 left: 853px; 
+	 top: 2822px; 
+	 position: absolute; 
+	 width: 82px;
+	 height: 192px;
+	 z-index:6;
+} 
+
+ #Contacts 
+{ 
+	 left: 1136px; 
+	 top: 2822px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 18px;
+	 z-index:7;
+} 
+
+ .contact 
+{ 
+	 left: 1134px; 
+	 top: 2867px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 158px;
+	 z-index:8;
+} 
+
+ #Rectangle6copy3 
+{ 
+	 left: -21px; 
+	 top: 2266px; 
+	 position: absolute; 
+	 width: 1636px;
+	 height: 499px;
+	 z-index:9;
+} 
+
+ #Inscrivezvousnotrene 
+{ 
+	 text-transform: uppercase;
+	 text-align: center;
+	 font-size: 20px;
+	 font-weight: bold;
+	 color: rgb(23, 23, 66);
+	 left: 508px; 
+	 top: 2323px; 
+	 position: absolute; 
+	 width: 595px;
+	 height: 30px;
+	 z-index:10;
+} 
+
+ #Loremipsumdolorsitam_0 
+{ 	text-align: center;
+	color: gray;
+	 left: 440px; 
+	 top: 2383px; 
+	 position: absolute; 
+	 width: 720px;
+	 height: 51px;
+	 z-index:11;
+} 
+#ServicesRfrencesCarr_0 a{
+	line-height:30px;
+	font-size: 19px;
+	list-style: none;
+	text-decoration: none;
+	color: gray;
+}
+
+ #Layer25copy 
+{ 
+	 left: 552px; 
+	 top: 2464px; 
+	 position: absolute; 
+	 width: 521px;
+	 height: 101px;
+	 z-index:12;
+} 
+
+ #Layer44 
+{ 	
+	cursor: pointer;
+	 background: orange;
+	 border-radius: 4px;
+	 left: 705px; 
+	 top: 2594px; 
+	 position: absolute; 
+	 width: 231px;
+	 height: 41px;
+	 z-index:13;
+} 
+.text{
+	color: white;
+	text-transform: uppercase;
+	margin-top: 10px;
+	text-align: center;
+}
+ #votreadresseemail 
+{ 
+	color: gray;
+	 left: 742px; 
+	 top: 2538px; 
+	 position: absolute; 
+	 width: 250px;
+	 height: 10px;
+	 z-index:14;
+} 
+
+ /* #Envoyez 
+{ 
+	 left: 786px; 
+	 top: 2607px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 12px;
+	 z-index:15;
+}  */
+
+ #Votrenom 
+{ 	
+	color: gray;
+	 left: 770px; 
+	 top: 2479px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 10px;
+	 z-index:16;
+} 
+
+ #Layer42 
+{ 
+	 left: 0px; 
+	 top: 1850px; 
+	 position: absolute; 
+	 width: 1600px;
+	 height: 419px;
+	 z-index:17;
+} 
+
+ #Layer43 
+{ 
+	 left: 0px; 
+	 top: 1707px; 
+	 position: absolute; 
+	 width: 886px;
+	 height: 768px;
+	 z-index:18;
+} 
+
+ #Readmore 
+{ 
+	 font-weight: bold;
+	 left: 828px; 
+	 top: 2192px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 10px;
+	 z-index:19;
+} 
+#Readmore a{
+    text-decoration: none; 
+    color: aqua; 
+}
+
+ #subMenuArrowcopy5 
+{ 
+	 left: 903px; 
+	 top: 2195px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 5px;
+	 z-index:20;
+} 
+
+ 
+
+ #Loremipsumdolorsitam_1 
+{ 	
+	 color: rgba(61, 70, 78, 0.671);
+	 font-size: 20px;
+	 line-height: 200%;
+	 left: 825px; 
+	 top: 2000px; 
+	 position: absolute; 
+	 width: 555px;
+	 height: 129px;
+	 z-index:22;
+} 
+#Polygon2 
+{ 
+	 left: 784px; 
+	 top: 727px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 11px;
+	 z-index:48;
+} 
+
+ #Vistieznotreboutique 
+{ 
+    color: grey;
+    text-align: center;
+    font-size: 15px;
+	 left: 484px; 
+	 top: 832px; 
+	 position: absolute; 
+	 width: 567px;
+	 height: 16px;
+	 z-index:49;
+} 
+
+ #NosServices 
+{ 
+	 left: 695px; 
+	 top: 791px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 23px;
+	 z-index:50;
+} 
+
+ #Ellipse6 
+{ 
+	 left: 191px; 
+	 top: 915px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 262px;
+	 z-index:51;
+} 
+
+ #Ellipse7 
+{ 
+	 left: 288px; 
+	 top: 886px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 67px;
+	 z-index:52;
+} 
+
+ #Shape3 
+{ 
+	 left: 249px; 
+	 top: 1001px; 
+	 position: absolute; 
+	 width: 150px;
+	 height: 5px;
+	 z-index:53;
+} 
+
+ #Dveloppmentweb 
+{ 
+    color: black;
+    font-weight: bold;
+    text-align: center;
+	 left: 241px; 
+	 top: 975px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 18px;
+	 z-index:54;
+} 
+
+ #Readmore_0 
+{ 
+	 left: 282px; 
+	 top: 1120px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 10px;
+	 z-index:55;
+} 
+#Readmore_0 a{
+    text-decoration: none;
+    font-weight: bold;
+    color: teal;
+}
+
+ #subMenuArrowcopy4 
+{ 
+	 left: 357px; 
+	 top: 1123px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 5px;
+	 z-index:56;
+} 
+
+ #Loremipsumdolorsitam_6 
+{ 
+	 left: 226px; 
+	 top: 1020px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 62px;
+	 z-index:57;
+} 
+
+ #Ellipse6_0 
+{ 
+	 left: 504px; 
+	 top: 915px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 262px;
+	 z-index:58;
+} 
+
+ #Ellipse7_0 
+{ 
+	 left: 601px; 
+	 top: 886px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 67px;
+	 z-index:59;
+} 
+
+ #Dveloppmentmobile 
+{ 
+    color: black;
+    font-weight: bold;
+    text-align: center;
+	 left: 542px; 
+	 top: 975px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 18px;
+	 z-index:60;
+} 
+
+ #Readmore_1 
+{ 
+	 left: 595px; 
+	 top: 1120px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 10px;
+	 z-index:61;
+} 
+#Readmore_1 a{
+    text-decoration: none;
+    font-weight: bold;
+    color: teal;
+}
+
+
+ #subMenuArrowcopy4_0 
+{ 
+	 left: 670px; 
+	 top: 1123px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 5px;
+	 z-index:62;
+} 
+
+ #Loremipsumdolorsitam_7 
+{ 
+	 left: 539px; 
+	 top: 1020px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 62px;
+	 z-index:63;
+} 
+
+ #Ellipse6_1 
+{ 
+	 left: 817px; 
+	 top: 915px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 262px;
+	 z-index:64;
+} 
+
+ #Ellipse7_1 
+{ 
+	 left: 914px; 
+	 top: 886px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 67px;
+	 z-index:65;
+} 
+
+ #WebDesign 
+{ 
+    color: black;
+    font-weight: bold;
+    text-align: center;
+	 left: 896px; 
+	 top: 976px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 17px;
+	 z-index:66;
+} 
+
+ #Readmore_2 
+{ 
+	 left: 908px; 
+	 top: 1120px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 10px;
+	 z-index:67;
+} 
+#Readmore_2 a{
+    text-decoration: none;
+    font-weight: bold;
+    color: teal;
+}
+
+ #subMenuArrowcopy4_1 
+{ 
+	 left: 983px; 
+	 top: 1123px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 5px;
+	 z-index:68;
+} 
+
+ #Loremipsumdolorsitam_8 
+{ 
+	 left: 852px; 
+	 top: 1020px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 62px;
+	 z-index:69;
+} 
+
+ #Ellipse6_2 
+{ 
+	 left: 1130px; 
+	 top: 915px; 
+	 position: absolute; 
+	 width: 262px;
+	 height: 262px;
+	 z-index:70;
+} 
+
+ #Ellipse7_2 
+{ 
+	 left: 1227px; 
+	 top: 886px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 67px;
+	 z-index:71;
+} 
+
+ #monitor90 
+{ 
+	 left: 306px; 
+	 top: 906px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 29px;
+	 z-index:72;
+} 
+
+ #monitor90copy 
+{ 
+	 left: 618px; 
+	 top: 906px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 29px;
+	 z-index:73;
+} 
+
+ #monitor90copy2 
+{ 
+	 left: 931px; 
+	 top: 906px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 29px;
+	 z-index:74;
+} 
+
+ #monitor90copy3 
+{ 
+	 left: 1243px; 
+	 top: 906px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 29px;
+	 z-index:75;
+} 
+
+ #TestQualitAssurance 
+{ 
+    color: black;
+    font-weight: bold;
+    text-align: center;
+	 left: 1169px; 
+	 top: 976px; 
+	 position: absolute; 
+	 width: 184px;
+	 height: 14px;
+	 z-index:76;
+} 
+
+ #Readmore_3 
+{ 
+	 left: 1221px; 
+	 top: 1120px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 10px;
+	 z-index:77;
+}
+#Readmore_3 a{
+    color: teal;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+}
+
+#Loremipsumdolorsitam_9 
+{ 
+    color: black;
+	 left: 1165px; 
+	 top: 1020px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 62px;
+	 z-index:79;
+} 
+
+#NosServices 
+{  
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    color: grey;
+    font-size: 30px;
+	 left: 695px; 
+	 top: 791px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 23px;
+	 z-index:50;
+}
+
+#Loremipsumdolorsitam_4 
+{ 
+	 left: 997px; 
+	 top: 1685px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 44px;
+	 z-index:44;
+}
+#Rectangle9 
+{ 
+	 left: -22px; 
+	 top: 723px; 
+	 position: absolute; 
+	 width: 1639px;
+	 height: 7px;
+	 z-index:47;
+} 
